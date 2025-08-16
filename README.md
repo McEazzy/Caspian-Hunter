@@ -4,7 +4,7 @@
 </p>
 
 # Overview
-A project designed to scrape a batch of job posts from 'Seek.com.au' job board to analyze job skill occurrence (currently targeting software engineer field).
+A project designed to scrape a batch of job posts from 'Seek.com.au' job board to visually predict currently in-market job skill occurrence (currently targeting software engineer field).
 
 # Current Developement Status
 The program is running off customized spaCy NLP machine learning model to pick-up key software engineer skill terms only.
